@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1525881851 source:c:\users\luciano\desktop\tp_2_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"utn.h"
+
+1526087481 c:\users\luciano\desktop\tp_2_cascara\funciones.h
+
+1525389868 source:c:\users\luciano\desktop\tp_2_cascara\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"usuario.h"
+	"utn.h"
+
+1525389282 c:\users\luciano\desktop\tp_2_cascara\usuario.h
+
+1524691840 c:\users\luciano\desktop\tp_2_cascara\utn.h
+
+1524691840 source:c:\users\luciano\desktop\tp_2_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526087261 source:c:\users\luciano\desktop\tp_2_cascara\funciones.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
