@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1528529718 source:f:\usuarios\alumno\escritorio\tp_laboratorio_1\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"movie.h"
+	"utn.h"
+
+1528532916 
+
+1528536446 f:\usuarios\alumno\escritorio\tp_laboratorio_1\tp_3_cascara\movie.h
+
+1528532916 source:f:\usuarios\alumno\escritorio\tp_laboratorio_1\tp_3_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1528531912 f:\usuarios\alumno\escritorio\tp_laboratorio_1\tp_3_cascara\utn.h
+
+1528532478 source:f:\usuarios\alumno\escritorio\tp_laboratorio_1\tp_3_cascara\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+	"utn.h"
+
+1529005691 source:c:\users\luciano\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"peli.h"
+	"utn.h"
+
+1529005668 c:\users\luciano\desktop\tp_3_cascara\movie.h
+
+1528531912 c:\users\luciano\desktop\tp_3_cascara\utn.h
+
+1529005167 source:c:\users\luciano\desktop\tp_3_cascara\movie.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"movie.h"
+	"utn.h"
+
+1528532916 source:c:\users\luciano\desktop\tp_3_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1529005668 c:\users\luciano\desktop\tp_3_cascara\peli.h
+
+1529006050 source:c:\users\luciano\desktop\tp_3_cascara\peli.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peli.h"
+	"utn.h"
+
+1528532916 source:/home/alumno/Escritorio/TP_3_Cascara/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1528531912 /home/alumno/Escritorio/TP_3_Cascara/utn.h
+
+1529024126 source:/home/alumno/Escritorio/TP_3_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	"peli.h"
+	"utn.h"
+
+1529024188 /home/alumno/Escritorio/TP_3_Cascara/peli.h
+
+1529109017 source:/media/nmiguenz/FLASH DRIVE/TP_3_LucianoGil/main.c
+	<stdio.h>
+	<stdlib.h>
+	"peli.h"
+	"utn.h"
+
+1529014270 /media/nmiguenz/FLASH DRIVE/TP_3_LucianoGil/peli.h
+
+1529108450 /media/nmiguenz/FLASH DRIVE/TP_3_LucianoGil/utn.h
+
